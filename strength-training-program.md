@@ -9,20 +9,20 @@ A 4-day split focused on building strength and muscle.
 ### Legs
 | Exercise | Sets | Reps | Rest | Rambo | Holm | Link |
 |----------|------|------|------|-------|------|------|
-| Barbell Back Squat | 4 | 6-8 | 3 min | | | [Video](https://www.youtube.com/watch?v=ultWZbUMPL8) |
-| Romanian Deadlift | 4 | 8-10 | 2 min | | | [Video](https://www.youtube.com/watch?v=jEy_czb3RKA) |
-| Leg Press | 3 | 10-12 | 2 min | | | [Video](https://www.youtube.com/watch?v=IZxyjW7MPJQ) |
+| Barbell Back Squat | 4 | 8 | 3 min | | 100 kg | [Video](https://www.youtube.com/watch?v=ultWZbUMPL8) |
+| Romanian Deadlift | 4 | 10 | 2 min | | 40 kg | [Video](https://www.youtube.com/watch?v=Ti3VhUC4d10) |
+| Leg Press | 3 | 12 | 2 min | | | [Video](https://www.youtube.com/watch?v=IZxyjW7MPJQ) |
 | Walking Lunges | 3 | 12 each leg | 90 sec | | | [Video](https://www.youtube.com/watch?v=L8fvypPrzzs) |
-| Calf Raises | 4 | 12-15 | 60 sec | | | [Video](https://www.youtube.com/watch?v=gwLzBJYoWlI) |
+| Calf Raises | 4 | 15 | 60 sec | | | [Video](https://www.youtube.com/watch?v=gwLzBJYoWlI) |
 
 ### Arms
 | Exercise | Sets | Reps | Rest | Rambo | Holm | Link |
 |----------|------|------|------|-------|------|------|
-| Barbell Curl | 4 | 8-10 | 90 sec | | | [Video](https://www.youtube.com/watch?v=kwG2ipFRgfo) |
-| Skull Crushers | 4 | 8-10 | 90 sec | | | [Video](https://www.youtube.com/watch?v=d_KZxkY_0cM) |
-| Hammer Curls | 3 | 10-12 | 60 sec | | | [Video](https://www.youtube.com/watch?v=zC3nLlEvin4) |
-| Tricep Pushdowns | 3 | 10-12 | 60 sec | | | [Video](https://www.youtube.com/watch?v=2-LAMcpzODU) |
-| Wrist Curls | 2 | 15 | 45 sec | | | [Video](https://www.youtube.com/watch?v=7LrOFK5bp2E) |
+| Barbell Curl | 4 | 8-10 | 90 sec | | 20 kg | [Video](https://www.youtube.com/watch?v=kwG2ipFRgfo) |
+| Skull Crushers | 4 | 8-10 | 90 sec | | 25 kg | [Video](https://www.youtube.com/watch?v=d_KZxkY_0cM) |
+| Hammer Curls | 3 | 10-12 | 60 sec | | 12 kg | [Video](https://www.youtube.com/watch?v=zC3nLlEvin4) |
+| Tricep Pushdowns | 3 | 10-12 | 60 sec | | 36 kg | [Video](https://www.youtube.com/watch?v=2-LAMcpzODU) |
+| Wrist Curls | 2 | 15 | 45 sec | | 8 kg | [Video](https://www.youtube.com/watch?v=3VLTzIrnb5g) |
 
 ---
 
@@ -98,7 +98,7 @@ A 4-day split focused on building strength and muscle.
 
 | Distanse | Rambo | Holm |
 |----------|-------|------|
-| 500m | 2:17 | |
+| 500m | 1:37 | 1:50 |
 
 ---
 
