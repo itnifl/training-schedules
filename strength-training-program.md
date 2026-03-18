@@ -30,11 +30,11 @@ A 4-day split focused on building strength and muscle.
 
 | Exercise | Sets | Reps | Rest | Rambo | Holm | Link |
 |----------|------|------|------|-------|------|------|
-| Barbell Bench Press | 5 | 5 | 3 min | | | [Video](https://www.youtube.com/watch?v=rT7DgCr-3pg) |
-| Incline Dumbbell Press | 4 | 8-10 | 2 min | | | [Video](https://www.youtube.com/watch?v=8iPEnn-ltC8) |
+| Barbell Bench Press | 5 | 5 | 3 min | | 100 kg | [Video](https://www.youtube.com/watch?v=rT7DgCr-3pg) |
+| Incline Dumbbell Press | 4 | 10 | 2 min | 20 kg | | [Video](https://www.youtube.com/watch?v=8iPEnn-ltC8) |
 | Decline Bench Press | 3 | 8-10 | 2 min | | | [Video](https://www.youtube.com/watch?v=LfyQBUKR8SE) |
-| Dumbbell Flyes | 3 | 10-12 | 90 sec | | | [Video](https://www.youtube.com/watch?v=eozdVDA78K0) |
-| Cable Crossovers | 3 | 12-15 | 60 sec | | | [Video](https://www.youtube.com/watch?v=taI4XduLpTk) |
+| Dumbbell Flyes | 3 | 10-12 | 90 sec | | 10 kg | [Video](https://www.youtube.com/watch?v=eozdVDA78K0) |
+| Cable Crossovers | 3 | 12-15 | 60 sec | | 16 kg | [Video](https://www.youtube.com/watch?v=taI4XduLpTk) |
 | Push-ups (to failure) | 2 | AMRAP | 60 sec | | | [Video](https://www.youtube.com/watch?v=IODxDxX7oi4) |
 
 ---
@@ -45,7 +45,7 @@ A 4-day split focused on building strength and muscle.
 |----------|------|------|------|-------|------|------|
 | Deadlift | 5 | 5 | 3 min | | | [Video](https://www.youtube.com/watch?v=op9kVnSso6Q) |
 | Pull-ups / Lat Pulldown | 4 | 6-8 | 2 min | | | [Video](https://www.youtube.com/watch?v=eGo4IYlbE5g) |
-| Barbell Rows | 4 | 8-10 | 2 min | | | [Video](https://www.youtube.com/watch?v=FWJR5Ve8bnQ) |
+| Barbell Rows | 4 | 8-10 | 2 min | | 50 kg | [Video](https://www.youtube.com/watch?v=FWJR5Ve8bnQ) |
 | Seated Cable Rows | 3 | 10-12 | 90 sec | | | [Video](https://www.youtube.com/watch?v=GZbfZ033f74) |
 | Single-Arm Dumbbell Row | 3 | 10-12 each | 90 sec | | | [Video](https://www.youtube.com/watch?v=pYcpY20QaE8) |
 | Face Pulls | 3 | 15 | 60 sec | | | [Video](https://www.youtube.com/watch?v=rep-qVOkqgk) |
